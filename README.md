@@ -73,5 +73,5 @@ If you have a question about the DVS register machine-readable infrastructure, o
 
 ---
 
-- Next: [How trust works in the machine-readable DVS register](docs/how-trust-works.md)
+- Next: [How trust works in the machine-readable infrastructure for the DVS register](docs/how-trust-works.md)
 <!-- pagination:end -->

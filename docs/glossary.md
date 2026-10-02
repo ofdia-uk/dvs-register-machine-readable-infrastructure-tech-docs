@@ -57,7 +57,7 @@ The person who the credential or attribute belongs to, who presents it, usually 
 
 ## Issuer
 
-An organisation that issues credentials to holders.
+An organisation that issues credentials or attributes to holders.
 
 ## JSON Web Key Set (JWKS)
 

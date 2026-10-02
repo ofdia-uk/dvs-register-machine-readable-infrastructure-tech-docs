@@ -105,7 +105,7 @@ When a holder presents a credential in person to a nearby reader. For example, t
 
 ## Reader
 
-A device or system that requests credentials from a holder, for example when a credential is presented in person.
+A device or system that requests credentials or attributes from a holder, for example when a credential is presented in person.
 
 ## Reader identity certificate authority list (RICAL)
 

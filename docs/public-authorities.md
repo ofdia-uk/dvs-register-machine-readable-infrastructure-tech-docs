@@ -11,7 +11,7 @@ We're still confirming the role of public authorities in the machine-readable in
 
 ## What we can tell you now
 
-We intend that public authorities will be able to use the machine-readable for the DVS Register to check what a DVS provider is certified to do.
+Public authorities will be able to use the machine-readable for the DVS Register to check what a registered DVS provider is certified to do.
 
 To understand our current approach, you can read:
 

@@ -24,7 +24,7 @@ flowchart TD
     intermediate --> signing["Your signing certificate"]
 ```
 
-You'll get 2 certificates through the portal:
+We will send 2 certificates to you through the portal:
 
 - a transport certificate
 - a signing certificate

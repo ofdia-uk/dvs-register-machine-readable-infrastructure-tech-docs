@@ -53,7 +53,7 @@ A federation endpoint that returns a subordinate statement about an entity. The 
 
 ## Holder
 
-The person who has a credential and presents it, usually using a wallet on their phone.
+The person who the credential or attribute belongs to, who presents it, usually using a digital wallet on their smartphone.
 
 ## Issuer
 

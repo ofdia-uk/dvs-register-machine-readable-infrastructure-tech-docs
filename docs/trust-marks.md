@@ -14,11 +14,11 @@ OfDIA issues trust marks to DVS providers to show the scope of their certificati
 
 ## What OfDIA issues
 
-OfDIA issues a separate trust mark for each part of your certification, such as:
+OfDIA issues a separate trust mark for each part of a digital verification services certification, such as:
 
-- each role you're certified for
-- each identity profile you're certified for
-- each supplementary code you're certified against
+- each role it is certified to perform
+- each identity profile it is certified against
+- each supplementary code it is certified against
 
 Each trust mark has a trust mark type identifier. This shows which part of your certification the trust mark represents.
 

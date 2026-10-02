@@ -21,7 +21,7 @@ A request you send to a CA to get a certificate. It contains your public key and
 
 ## DVS provider
 
-An organisation that provides digital verification services and is certified against the DVS trust framework.
+An organisation that provides digital verification services and that is certified and registered against the DVS trust framework.
 
 ## Entity
 

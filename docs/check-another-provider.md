@@ -3,13 +3,13 @@
 >
 > This documentation is a work in progress and is subject to change.
 
-# Check another provider's certification
-
-You can use the DVS register machine-readable infrastructure to check what another DVS provider is certified to do.
-
-The  machine-readable infrastructure is designed so that you can check signed artefacts once and cache them locally for a period of time. You do not need to make a live look up the register every time you check a provider.
+# Check another registered provider's certification
 
 This page is for DVS providers. If you're a public authority, read the [information for public authorities](public-authorities.md) first.
+
+You can use the DVS register machine-readable infrastructure to check what another registered DVS provider is certified to do.
+
+The  machine-readable infrastructure is designed so that you can check signed artefacts once and cache them locally for a period of time. You do not need to make a live look up the register every time you check a provider's certified status.
 
 ## How it works
 

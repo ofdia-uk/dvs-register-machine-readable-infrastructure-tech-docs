@@ -5,7 +5,7 @@
 
 # Check another provider's certification
 
-This page is for DVS providers. If you're a public authority, read the [information for public authorities](public-authorities.md) first.
+This page is for DVS providers. If you're a UK public authority, read the [information for public authorities](public-authorities.md) first.
 
 You can use the DVS register machine-readable infrastructure to check what another DVS provider is certified to do.
 

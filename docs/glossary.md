@@ -161,7 +161,7 @@ A signed list of the CA certificates of trusted credential issuers. A reader use
 
 ## Wallet
 
-An app that stores a holder's credentials and presents them to readers.
+An app that stores a holder's credentials or attributes, and presents them to readers.
 
 <!-- pagination:start -->
 

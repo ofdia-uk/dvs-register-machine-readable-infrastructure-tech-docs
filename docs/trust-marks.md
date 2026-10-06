@@ -14,11 +14,11 @@ OfDIA issues trust marks to DVS providers to show the scope of their certificati
 
 ## What OfDIA issues
 
-OfDIA issues a separate trust mark for each part of your certification, such as:
+OfDIA issues a separate trust mark for each part of a digital verification services certification, such as:
 
-- each role you're certified for
-- each identity profile you're certified for
-- each supplementary code you're certified against
+- each role it is certified to perform
+- each identity profile it is certified against
+- each supplementary code it is certified against
 
 Each trust mark has a trust mark type identifier. This shows which part of your certification the trust mark represents.
 
@@ -93,14 +93,14 @@ For example:
 
 ## When your certification changes
 
-If your certification changes, the trust marks that OfDIA issues to you will change too.
+If your certification changes, OfDIA will change the trust marks we issues to you too.
 
 You should publish a new entity configuration when:
 
-- OfDIA issues you a new trust mark
+- OfDIA issues you with a new trust mark
 - one of your trust marks expires or is revoked
 
-You should remove any trust marks that have expired or been revoked.
+You should remove any trust marks that have expired or been revoked from ....
 
 ## Check the status of a trust mark
 

@@ -5,13 +5,13 @@
 
 # Information for public authorities
 
-The machine-readable infrastructure for the DVS register is designed so that DVS providers can share the scope of their certification with public authorities, as well as with other DVS providers.
+The machine-readable infrastructure for the digital verification services (DVS) register. It is designed so that registered DVS providers can share the scope of their certification with public authorities, as well as with other DVS providers.
 
 We're still confirming the role of public authorities in the machine-readable infrastructure. We'll share more when we can.
 
 ## What we can tell you now
 
-We intend that public authorities will be able to use the machine-readable for the DVS Register to check what a DVS provider is certified to do.
+Public authorities will be able to use the machine-readable for the DVS Register to check what a registered DVS provider is certified to do.
 
 To understand our current approach, you can read:
 

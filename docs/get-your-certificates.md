@@ -11,7 +11,7 @@ You do not need these certificates to check another DVS provider's certification
 
 ## Before you start
 
-You should be a certified DVS provider on the [register of digital identity and attribute services](https://www.digital-identity-services-register.service.gov.uk/).
+You must be a certified DVS provider on the UK [register of digital identity and attribute services](https://www.digital-identity-services-register.service.gov.uk/).
 
 If you're a public authority, read the [information for public authorities](public-authorities.md).
 

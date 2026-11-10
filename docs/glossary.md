@@ -21,7 +21,7 @@ A request you send to a CA to get a certificate. It contains your public key and
 
 ## DVS provider
 
-An organisation that provides digital verification services and is certified against the DVS trust framework.
+An organisation that provides digital verification services and that is certified and registered against the DVS trust framework.
 
 ## Entity
 
@@ -53,11 +53,11 @@ A federation endpoint that returns a subordinate statement about an entity. The 
 
 ## Holder
 
-The person who has a credential and presents it, usually using a wallet on their phone.
+The person who the credential or attribute belongs to, who presents it, usually using a digital wallet on their smartphone.
 
 ## Issuer
 
-An organisation that issues credentials to holders.
+An organisation that issues credentials or attributes to holders.
 
 ## JSON Web Key Set (JWKS)
 
@@ -105,7 +105,7 @@ When a holder presents a credential in person to a nearby reader. For example, t
 
 ## Reader
 
-A device or system that requests credentials from a holder, for example when a credential is presented in person.
+A device or system that requests credentials or attributes from a holder, for example when a credential is presented in person.
 
 ## Reader identity certificate authority list (RICAL)
 
@@ -161,7 +161,7 @@ A signed list of the CA certificates of trusted credential issuers. A reader use
 
 ## Wallet
 
-An app that stores a holder's credentials and presents them to readers.
+An app that stores a holder's credentials or attributes, and presents them to readers.
 
 <!-- pagination:start -->
 
